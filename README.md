@@ -1,3 +1,6 @@
+## Instructions
+dataset.csv should be located in the same directory as the Rmd file.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
