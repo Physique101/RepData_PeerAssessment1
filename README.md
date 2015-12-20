@@ -1,5 +1,5 @@
 ## Instructions
-dataset.csv should be located in the same directory as the Rmd file.
+activity.csv should be located in the same directory as the Rmd file.
 
 ## Introduction
 
